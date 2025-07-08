@@ -1,0 +1,16 @@
+{
+  "name": "moneygowhere",
+  "dependencies": {
+    "dotenv": "^17.1.0",
+    "firebase": "^11.10.0",
+    "react-router-dom": "^7.6.3"
+  },
+  "devDependencies": {
+    "vite": "^7.0.2"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}

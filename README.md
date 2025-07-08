@@ -1,0 +1,3 @@
+# MoneyGoWhere
+
+Project bootstrap.

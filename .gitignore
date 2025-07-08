@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+
+# builds
+/dist
+/build
+
+# Firebase
+.firebase/
+firestore.indexes.json
+firestore.rules
+firebase-debug.log
+functions/lib/
+functions/node_modules/
+
+# sensitive config
+.env
+.env.local
+.env.*.local
+
+# misc
+.DS_Store.env
+.env
